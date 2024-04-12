@@ -12,7 +12,7 @@ cd ./Rectangular-Patch-Antenna-Optimization
 py manage.py runserver
 
 ```
-**After running the server go to**: http://127.0.0.1:8000/Classifier
+**After running the server go to**: http://127.0.0.1:8000/Optimizer
 
 
 
